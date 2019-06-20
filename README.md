@@ -1,2 +1,2 @@
 # gobridge
-一个使用go语言实现的局域网穿透小工具
+A LAN Penetration Gadget implemented using Go language.
